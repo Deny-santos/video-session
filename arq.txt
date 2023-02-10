@@ -1,0 +1,7 @@
+ https://youtu.be/ug3TaUvIdsY === link da video aula canal do will dev
+ 
+ <script src="script.js" type="module"></script> = module é porque vou importar outro arquivo js dentro desse 
+
+ .playlist::-webkit-scrollbar-thumb == estiliza a barra de rolagem, nesse caso barra arrastavel
+
+ playlist::-webkit-scrollbar = a barra de rolagem inteira
